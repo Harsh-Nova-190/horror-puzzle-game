@@ -1,4 +1,4 @@
-🎮 2D Horror Puzzle Game
+# Large Title (H1)🎮 2D Horror Puzzle Game
 
 📌 Overview
 
